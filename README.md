@@ -1,3 +1,3 @@
-## Soccer Match Data Analysis
-- Exploratory data analysis on match stats from the top 4 leagues in Europe: Spain, England, Italy, and Germany
-- Performed full data analysis process Python: formulate questions, wrangle data, explore, draw conclusions, and communicate findings
+## A/B Test Result Analysis
+- Exploratory Data Analysis on A/B test results run by an e-commerce website
+- Performed probability computations, hypothesis testing, and logistic regression using Python
